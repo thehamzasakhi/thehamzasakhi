@@ -58,15 +58,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thehamzasakhi&show_icons=true&hide_border=true&theme=github_dark&icon_color=34D399&title_color=34D399" height="165" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehamzasakhi&layout=compact&hide_border=true&theme=github_dark&title_color=34D399" height="165" alt="Top Languages">
-</p>
-
----
-
 ## 🌐 Connect
 
 <p align="center">
