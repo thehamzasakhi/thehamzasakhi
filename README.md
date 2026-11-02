@@ -38,7 +38,6 @@
 ![CRTA](https://img.shields.io/badge/CRTA-CyberWarfare%20Labs-1F6FEB?style=for-the-badge)
 ![CAP](https://img.shields.io/badge/CAP-The%20SecOps%20Group-6E40C9?style=for-the-badge)
 ![CEH Practical](https://img.shields.io/badge/CEH%20Practical-EC--Council-2F8C46?style=for-the-badge)
-![CPTS](https://img.shields.io/badge/CPTS-Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 ![HTB Pro Labs](https://img.shields.io/badge/HTB%20Pro%20Labs-Dante%20%7C%20P.O.O.-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 ![PortSwigger HOF](https://img.shields.io/badge/PortSwigger%20Hall%20of%20Fame-%2324-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
